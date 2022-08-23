@@ -7,6 +7,10 @@ last_modified: '2022-08-08T09:36:36.829031'
 parser: null
 source_metadata:
   title: Commentary
+  base:
+    46A7:
+      title: Commentary
+      base_file: 46A7.txt
 statistics: {}
 quality: {}
 copyright:
